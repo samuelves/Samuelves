@@ -3,8 +3,8 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no <a href="link da sua faculdade">UNICID</a>.
-- 💼 &nbsp; Trabalhando como Desenvolvedor Full Stack na <a href="LINK DA EMPRESA">Y&Stevo</a>
+- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no <a href="https://www.unicid.edu.br/">UNICID</a>.
+- 💼 &nbsp; Trabalhando como Desenvolvedor Full Stack na <a href="https://ystevo.com/">Y&Stevo</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
