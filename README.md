@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Samuelves&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :men: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no <a href="https://www.unicid.edu.br/">UNICID</a>.
