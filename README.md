@@ -21,13 +21,3 @@
 <a href="https://github.com/Samuelves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuelves&theme=dracula&show_icons=true" />
 </a>
-
-<br/>
-
-[![Samuelves](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelves&hide=html&layout=compact&theme=dracula)](https://github.com/Samuelves/)
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Ives Samuel](https://img.shields.io/badge/-IvesSamuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ives-samuel-72893618a)](https://www.linkedin.com/in/ives-samuel-72893618a)
