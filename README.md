@@ -1,7 +1,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.unicid.edu.br/">UNICID</a>.
+- 🎓 &nbsp; Formado Análise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Trabalhando como Desenvolvedor Full Stack na <a href="https://ystevo.com/">Y&Stevo</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
