@@ -17,3 +17,4 @@
 
 
 <br/>
+![Snake animation](https://raw.githubusercontent.com/samuelves/Samuelves/main/snake.svg)
