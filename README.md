@@ -17,4 +17,3 @@
 
 
 <br/>
-<img src="https://raw.githubusercontent.com/samuelves/Samuelves/main/snake.svg" width="200" height="100" align="center"/>
