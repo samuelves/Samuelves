@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado Análise e Desenvolvimento de Sistemas.
-- 💼 &nbsp; Trabalhando como Desenvolvedor Full Stack na <a href="https://ystevo.com/">Y&Stevo</a>
+- 💼 &nbsp; Trabalhando como Desenvolvedor NodeJS na <a href="https://fastprobr.com/">FastProBR</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
